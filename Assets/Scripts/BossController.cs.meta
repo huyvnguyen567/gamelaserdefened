@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51bb32d81ef834447b3115b286e4d2fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {fileID: 5798666511357847343, guid: 960bf673e517ae64c859bea44fbc29e3, type: 3}
+  - healthBar: {fileID: 6190805700296516334, guid: fa7e12cf511609149b3f8a20d0dbad80, type: 3}
+  - hitEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
